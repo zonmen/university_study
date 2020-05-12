@@ -173,7 +173,7 @@ while (window.isOpen())
 				}
 				break;
 			case Keyboard::C:
-//				cin >> s;
+//	 			cin >> s;
 				in.open("out_put.txt");
 				for (int i = 0; i < shapes.size(); i++)
 				{
